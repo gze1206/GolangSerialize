@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;untitled&gt;">
+    <CLASSES>
+      <root url="file://C:/gopath/src/github.com" />
+      <root url="file://C:/gopath/src/dsserver_jp" />
+      <root url="file://C:/gopath/src/netmarbles" />
+      <root url="file://C:/gopath/src/golang.org" />
+      <root url="file://C:/gopath/src/gopkg.in" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/gopath/src/github.com" />
+      <root url="file://C:/gopath/src/dsserver_jp" />
+      <root url="file://C:/gopath/src/netmarbles" />
+      <root url="file://C:/gopath/src/golang.org" />
+      <root url="file://C:/gopath/src/gopkg.in" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
